@@ -1,2 +1,2 @@
 # 사용법
-main.py 실행 후 test.py에서 domain 변경 후 사용
+python main.py -d {도메인} -t 30 -o results.txt -
